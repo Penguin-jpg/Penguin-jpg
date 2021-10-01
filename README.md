@@ -19,6 +19,7 @@
 [![java](./icons/java.png)](https://docs.oracle.com/javase/8/docs/api/)
 [![python](./icons/python.png)](https://www.python.org/)
 [![javascript](./icons/javascript.png)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
+[![kotlin](./icons/kotlin.png)](https://kotlinlang.org/)
 [![vs](./icons/visual-studio.png)](https://visualstudio.microsoft.com/zh-hant/)
 [![vscode](./icons/visual-studio-code.png)](https://code.visualstudio.com/)
 
