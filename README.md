@@ -2,7 +2,6 @@
 
 ![penguin](./icons/penguin.png)
 
-- 🔭 I’m currently working on my graduation project.
 - 🌱 I’m currently learning everything that I am interested in!
 - ⚡ Fun fact: I am not a penguin.
 
