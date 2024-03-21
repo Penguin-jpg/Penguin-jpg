@@ -8,7 +8,6 @@
 ### How to Contact With Me
 
 [![facebook](./icons/facebook.png)](https://www.facebook.com/profile.php?id=100003377505336)
-[![linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/%E4%BD%BE%E9%81%91-%E8%AC%9D-b19855207/)
 [![gmail](./icons/gmail.png)](mailto:sky026912@gmail.com)
 
 ### Language and Tools
